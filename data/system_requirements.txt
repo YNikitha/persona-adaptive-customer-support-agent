@@ -1,0 +1,9 @@
+System Requirements
+
+Supported browsers:
+- Google Chrome latest version
+- Mozilla Firefox latest version
+- Microsoft Edge latest version
+
+Minimum internet speed:
+10 Mbps recommended.

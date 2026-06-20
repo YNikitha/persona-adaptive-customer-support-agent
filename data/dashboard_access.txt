@@ -1,0 +1,8 @@
+Dashboard Access Issues
+
+Users may experience dashboard access problems because of browser cache, permission restrictions, or temporary server issues.
+
+Recommended actions:
+- Clear browser cache.
+- Use the latest browser version.
+- Verify account permissions.

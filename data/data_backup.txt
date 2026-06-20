@@ -1,0 +1,7 @@
+Data Backup Policy
+
+The system automatically creates backups every 24 hours.
+
+Administrators can request manual backups through the admin dashboard.
+
+Restoration requests require approval from the support team.

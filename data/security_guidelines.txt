@@ -1,0 +1,7 @@
+Security Guidelines
+
+Users should never share passwords or API keys.
+
+Enable two-factor authentication for better protection.
+
+Report suspicious account activity immediately.

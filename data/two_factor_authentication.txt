@@ -1,0 +1,8 @@
+Two Factor Authentication
+
+Two-factor authentication provides an additional security layer.
+
+If users lose access to their authentication device:
+- Use recovery codes.
+- Contact the security administrator.
+- Identity verification may be required.
